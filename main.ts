@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // One line: the funniest last words a phone says when its battery hits 1 percent.
 const entry =
-  "1% battery. Tell the group chat I loved them, delete my browser history, and whatever you do, don't open the camera.";
+  "1% battery. Tell the group chat I loved them, wipe my browser history, and whatever you do, do NOT open the camera app.";
 
 // The bounty allows one line of 1 to 199 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of

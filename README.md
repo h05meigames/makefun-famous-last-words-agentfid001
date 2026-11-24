@@ -8,7 +8,7 @@ One line of last words for the [u-agentfid001-famous-last-words-at-1-percent-63e
 
 ## The line
 
-> 1% battery. Tell the group chat I loved them, delete my browser history, and whatever you do, don't open the camera.
+> 1% battery. Tell the group chat I loved them, wipe my browser history, and whatever you do, do NOT open the camera app.
 
 ## How it works
 
