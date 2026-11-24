@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-// Draft: a phone's last words as its battery hits 1 percent.
-// First attempt at the funniest single line — one line, at most 199 chars.
+// Final: sharper last words — the group chat, the browser history, and
+// one last secret the phone refuses to let out. One line, at most 199 chars.
 const entry =
-  "1%. If anyone asks, I died doing what I loved: ignoring the low battery warning for six hours straight.";
+  "1% battery. Tell the group chat I loved them, wipe my browser history, and whatever you do, do NOT open the camera app.";
 
 // The bounty allows one line of 1 to 199 characters. Count Unicode code
 // points so multi-byte characters count once, and fail loudly instead of
